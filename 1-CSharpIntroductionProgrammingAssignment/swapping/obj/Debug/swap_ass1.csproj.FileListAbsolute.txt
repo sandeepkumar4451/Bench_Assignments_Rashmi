@@ -1,0 +1,8 @@
+D:\TASK\swap_ass1\bin\Debug\swap_ass1.exe.config
+D:\TASK\swap_ass1\bin\Debug\swap_ass1.exe
+D:\TASK\swap_ass1\bin\Debug\swap_ass1.pdb
+D:\TASK\swap_ass1\obj\Debug\swap_ass1.csproj.AssemblyReference.cache
+D:\TASK\swap_ass1\obj\Debug\swap_ass1.csproj.SuggestedBindingRedirects.cache
+D:\TASK\swap_ass1\obj\Debug\swap_ass1.csproj.CoreCompileInputs.cache
+D:\TASK\swap_ass1\obj\Debug\swap_ass1.exe
+D:\TASK\swap_ass1\obj\Debug\swap_ass1.pdb

@@ -1,0 +1,8 @@
+D:\TASK\HighestMark\bin\Debug\HighestMark.exe.config
+D:\TASK\HighestMark\bin\Debug\HighestMark.exe
+D:\TASK\HighestMark\bin\Debug\HighestMark.pdb
+D:\TASK\HighestMark\obj\Debug\HighestMark.csproj.AssemblyReference.cache
+D:\TASK\HighestMark\obj\Debug\HighestMark.csproj.SuggestedBindingRedirects.cache
+D:\TASK\HighestMark\obj\Debug\HighestMark.csproj.CoreCompileInputs.cache
+D:\TASK\HighestMark\obj\Debug\HighestMark.exe
+D:\TASK\HighestMark\obj\Debug\HighestMark.pdb

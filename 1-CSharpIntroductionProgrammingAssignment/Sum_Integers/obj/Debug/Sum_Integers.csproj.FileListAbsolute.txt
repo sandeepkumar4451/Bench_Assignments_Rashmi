@@ -1,0 +1,8 @@
+D:\TASK\Sum_Integers\bin\Debug\Sum_Integers.exe.config
+D:\TASK\Sum_Integers\bin\Debug\Sum_Integers.exe
+D:\TASK\Sum_Integers\bin\Debug\Sum_Integers.pdb
+D:\TASK\Sum_Integers\obj\Debug\Sum_Integers.csproj.AssemblyReference.cache
+D:\TASK\Sum_Integers\obj\Debug\Sum_Integers.csproj.SuggestedBindingRedirects.cache
+D:\TASK\Sum_Integers\obj\Debug\Sum_Integers.csproj.CoreCompileInputs.cache
+D:\TASK\Sum_Integers\obj\Debug\Sum_Integers.exe
+D:\TASK\Sum_Integers\obj\Debug\Sum_Integers.pdb

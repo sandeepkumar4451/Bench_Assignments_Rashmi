@@ -1,0 +1,8 @@
+D:\TASK\Calci\bin\Debug\Calci.exe.config
+D:\TASK\Calci\bin\Debug\Calci.exe
+D:\TASK\Calci\bin\Debug\Calci.pdb
+D:\TASK\Calci\obj\Debug\Calci.csproj.AssemblyReference.cache
+D:\TASK\Calci\obj\Debug\Calci.csproj.SuggestedBindingRedirects.cache
+D:\TASK\Calci\obj\Debug\Calci.csproj.CoreCompileInputs.cache
+D:\TASK\Calci\obj\Debug\Calci.exe
+D:\TASK\Calci\obj\Debug\Calci.pdb

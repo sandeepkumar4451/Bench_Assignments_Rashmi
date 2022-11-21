@@ -1,0 +1,8 @@
+D:\TASK\BookStructure\bin\Debug\BookStructure.exe.config
+D:\TASK\BookStructure\bin\Debug\BookStructure.exe
+D:\TASK\BookStructure\bin\Debug\BookStructure.pdb
+D:\TASK\BookStructure\obj\Debug\BookStructure.csproj.AssemblyReference.cache
+D:\TASK\BookStructure\obj\Debug\BookStructure.csproj.SuggestedBindingRedirects.cache
+D:\TASK\BookStructure\obj\Debug\BookStructure.csproj.CoreCompileInputs.cache
+D:\TASK\BookStructure\obj\Debug\BookStructure.exe
+D:\TASK\BookStructure\obj\Debug\BookStructure.pdb
