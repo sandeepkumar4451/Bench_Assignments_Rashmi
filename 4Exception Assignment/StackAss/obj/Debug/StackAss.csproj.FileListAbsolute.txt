@@ -1,0 +1,8 @@
+D:\TASK\StackAss\bin\Debug\StackAss.exe.config
+D:\TASK\StackAss\bin\Debug\StackAss.exe
+D:\TASK\StackAss\bin\Debug\StackAss.pdb
+D:\TASK\StackAss\obj\Debug\StackAss.csproj.AssemblyReference.cache
+D:\TASK\StackAss\obj\Debug\StackAss.csproj.SuggestedBindingRedirects.cache
+D:\TASK\StackAss\obj\Debug\StackAss.csproj.CoreCompileInputs.cache
+D:\TASK\StackAss\obj\Debug\StackAss.exe
+D:\TASK\StackAss\obj\Debug\StackAss.pdb
