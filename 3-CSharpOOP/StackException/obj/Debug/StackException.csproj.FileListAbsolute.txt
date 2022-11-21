@@ -1,0 +1,8 @@
+D:\TASK\StackException\bin\Debug\StackException.exe.config
+D:\TASK\StackException\bin\Debug\StackException.exe
+D:\TASK\StackException\bin\Debug\StackException.pdb
+D:\TASK\StackException\obj\Debug\StackException.csproj.AssemblyReference.cache
+D:\TASK\StackException\obj\Debug\StackException.csproj.SuggestedBindingRedirects.cache
+D:\TASK\StackException\obj\Debug\StackException.csproj.CoreCompileInputs.cache
+D:\TASK\StackException\obj\Debug\StackException.exe
+D:\TASK\StackException\obj\Debug\StackException.pdb

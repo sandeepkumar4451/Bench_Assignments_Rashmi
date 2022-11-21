@@ -1,0 +1,8 @@
+D:\TASK\EMS\bin\Debug\EMS.exe.config
+D:\TASK\EMS\bin\Debug\EMS.exe
+D:\TASK\EMS\bin\Debug\EMS.pdb
+D:\TASK\EMS\obj\Debug\EMS.csproj.AssemblyReference.cache
+D:\TASK\EMS\obj\Debug\EMS.csproj.SuggestedBindingRedirects.cache
+D:\TASK\EMS\obj\Debug\EMS.csproj.CoreCompileInputs.cache
+D:\TASK\EMS\obj\Debug\EMS.exe
+D:\TASK\EMS\obj\Debug\EMS.pdb
