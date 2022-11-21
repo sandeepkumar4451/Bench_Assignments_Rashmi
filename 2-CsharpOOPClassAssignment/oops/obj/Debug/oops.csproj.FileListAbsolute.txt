@@ -1,0 +1,8 @@
+D:\TASK\oops\bin\Debug\oops.exe.config
+D:\TASK\oops\bin\Debug\oops.exe
+D:\TASK\oops\bin\Debug\oops.pdb
+D:\TASK\oops\obj\Debug\oops.csproj.AssemblyReference.cache
+D:\TASK\oops\obj\Debug\oops.csproj.SuggestedBindingRedirects.cache
+D:\TASK\oops\obj\Debug\oops.csproj.CoreCompileInputs.cache
+D:\TASK\oops\obj\Debug\oops.exe
+D:\TASK\oops\obj\Debug\oops.pdb
