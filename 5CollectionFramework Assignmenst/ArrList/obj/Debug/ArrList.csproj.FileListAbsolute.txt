@@ -1,0 +1,8 @@
+D:\TASK\ArrList\bin\Debug\ArrList.exe.config
+D:\TASK\ArrList\bin\Debug\ArrList.exe
+D:\TASK\ArrList\bin\Debug\ArrList.pdb
+D:\TASK\ArrList\obj\Debug\ArrList.csproj.AssemblyReference.cache
+D:\TASK\ArrList\obj\Debug\ArrList.csproj.SuggestedBindingRedirects.cache
+D:\TASK\ArrList\obj\Debug\ArrList.csproj.CoreCompileInputs.cache
+D:\TASK\ArrList\obj\Debug\ArrList.exe
+D:\TASK\ArrList\obj\Debug\ArrList.pdb

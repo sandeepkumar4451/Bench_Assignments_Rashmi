@@ -1,0 +1,8 @@
+D:\TASK\EmpLinkedList\bin\Debug\EmpLinkedList.exe.config
+D:\TASK\EmpLinkedList\bin\Debug\EmpLinkedList.exe
+D:\TASK\EmpLinkedList\bin\Debug\EmpLinkedList.pdb
+D:\TASK\EmpLinkedList\obj\Debug\EmpLinkedList.csproj.AssemblyReference.cache
+D:\TASK\EmpLinkedList\obj\Debug\EmpLinkedList.csproj.SuggestedBindingRedirects.cache
+D:\TASK\EmpLinkedList\obj\Debug\EmpLinkedList.csproj.CoreCompileInputs.cache
+D:\TASK\EmpLinkedList\obj\Debug\EmpLinkedList.exe
+D:\TASK\EmpLinkedList\obj\Debug\EmpLinkedList.pdb
